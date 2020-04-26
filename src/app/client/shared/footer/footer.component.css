@@ -3,6 +3,7 @@
 ====================== */
 
 /* Main Footer */
+
 footer .main-footer{ padding: 20px 0; z-index: 1;}
 footer ul{	padding-left: 0;	list-style: none;}
 
@@ -87,7 +88,6 @@ transition: all 250ms ease-in-out 0s;
 .area{
     background: #252525;  
     background: -webkit-linear-gradient(to left, #de6b28, #de6b28);  
-    width: 100vw;
     position: relative;
    
 }
