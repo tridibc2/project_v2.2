@@ -217,6 +217,7 @@
 
 .fog-low{
     position: absolute;
+    z-index: 1;
     left: 0;
     bottom: 0;
     margin-left: -35%;
@@ -226,11 +227,13 @@
 
     img{
         width: 100%;
+        z-index: 1;
     }
 
     &.right{
         margin-left: 30%;
         opacity: 1;
+        z-index: 1;
     }
 }
 .angular-logo{
